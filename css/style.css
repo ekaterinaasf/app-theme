@@ -1,0 +1,6 @@
+img {
+    width:100%; /*all images should take their conteiners entirely*/
+}
+.container {
+    margin: auto; /**Push it to the middle **/
+}
