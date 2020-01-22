@@ -4,7 +4,7 @@ body{
     line-height:1.5em;
     margin:0;
     padding:0;
-  }
+}
 img {
     width:100%; /*all images should take their conteiners entirely*/
 }
@@ -15,16 +15,31 @@ img {
 /*Common classes*/
 .logo{
     color:#46635f; /*more gray than in original example*/
-  }
-  .primary-background{
+}
+.primary-background{
     background:#46635f;
-  }
+}
 
-  /* HEADER */
+  /* Header */
 #main-header{
-    border-bottom:1px solid ##46635f;
-  }
+    border-bottom:1px solid #46635f;
+}
   
-  /* NAVBAR */
+  /* Navbar */
   #navbar{
     text-transform:uppercase;
+}
+  #navbar li{
+    display:inline; /*display menu one by one in a line*/
+    padding-right:20px;
+    list-style:none; /*no bullet points*/
+}
+#navbar a{
+    text-decoration:none;
+    color:#888;
+}
+#navbar li.current a, #navbar a:hover{
+    color:#46635f;
+    border-bottom: 3px solid #46635f;
+    padding-bottom:3px;
+}
