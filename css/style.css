@@ -1,6 +1,30 @@
+body{
+    font-family:'Open-sans', sans-serif;
+    font-size:17px;
+    line-height:1.5em;
+    margin:0;
+    padding:0;
+  }
 img {
     width:100%; /*all images should take their conteiners entirely*/
 }
 .container {
     margin: auto; /**Push it to the middle **/
 }
+
+/*Common classes*/
+.logo{
+    color:#46635f; /*more gray than in original example*/
+  }
+  .primary-background{
+    background:#46635f;
+  }
+
+  /* HEADER */
+#main-header{
+    border-bottom:1px solid ##46635f;
+  }
+  
+  /* NAVBAR */
+  #navbar{
+    text-transform:uppercase;
