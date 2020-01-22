@@ -8,6 +8,7 @@
 |  | |  |  |
 | ... | ... | ... | ... |
 | Navigation branch | As a developer I can create a [navigation](https://github.com/ekaterinaasf/app-theme/tree/navigation) part | I added navigation (nav) part inside header of an index.html page  | nothing |
+| Showcase branch | As a developer I can create a [showcase](https://github.com/ekaterinaasf/app-theme/tree/showcase) part | I added showcasesection part after header of an index.html page  | nothing |
 
 
 ---
