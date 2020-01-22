@@ -11,6 +11,10 @@
 | Showcase branch | As a developer I can create a [showcase](https://github.com/ekaterinaasf/app-theme/tree/showcase) part | I added showcase section part after header of the index.html page  | nothing |
 | Features branch | As a developer I can create a [features](https://github.com/ekaterinaasf/app-theme/tree/features) part | I added 2 sections with rows with 6 column inside each one in the index.html page  | nothing |
 | Info branch | As a developer I can create a [info](https://github.com/ekaterinaasf/app-theme/tree/info) part | I added info section of the index.html page  | Allowed images to take entirely the parent container |
+| Company branch | As a developer I can create a [company](https://github.com/ekaterinaasf/app-theme/tree/company) part | I added navigation (nav) part inside header of an index.html page  | nothing |
+| About branch | As a developer I can create a [sabout](https://github.com/ekaterinaasf/app-theme/tree/about) part | I added showcase section part after header of the index.html page  | nothing |
+| Services branch | As a developer I can create a [services](https://github.com/ekaterinaasf/app-theme/tree/services) part | I added 2 sections with rows with 6 column inside each one in the index.html page  | nothing |
+| Contact branch | As a developer I can create a [contact](https://github.com/ekaterinaasf/app-theme/) part | I added info section of the index.html page  | Allowed images to take entirely the parent container |
 
 
 ---
