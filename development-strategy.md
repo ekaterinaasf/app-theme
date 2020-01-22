@@ -7,7 +7,7 @@
 | __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
 |  | |  |  |
 | ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+| Navigation branch | As a developer I can create a [navigation](https://github.com/ekaterinaasf/app-theme/tree/navigation) part | I added navigation (nav) part inside header of an index.html page  | nothing |
 
 
 ---
