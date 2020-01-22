@@ -90,7 +90,7 @@ img {
     color:#46635f;
   }
 
-  /**Info*/
+  /**Info**/
   #info{
     background:#333 url('../img/info-bg.jpg') no-repeat;
     color:#fff;
@@ -109,7 +109,7 @@ img {
     font-size:20px;
   }
 
-  /*Company*/
+  /**Company*/
   #company{
     background:#333;
     color:#fff;
@@ -134,7 +134,60 @@ img {
     border:0;
   }
 
-  /* Media queries */
+  /**Footer**/
+  #main-footer{
+    background:#46635f;
+    color:#fff;
+  }
+
+  /**Page**/
+  #page{
+    margin-bottom:40px;
+  }
+
+  /**Services**/
+  .services ul li{
+    list-style:none;
+    padding:10px;
+  }
+  .services ul li:nth-child(odd){ /** One by one they will have different colors**/
+    background:#333;
+    color:#fff;
+  }
+  .services ul li:nth-child(even){
+    background:#46635f;
+    color:#fff;
+  }
+
+  /**Contact page**/
+  .contact form{
+    background:#333;
+    color:#fff;
+    padding:20px;
+  }
+  .contact form input[type="text"]{
+    width:50%; /**50% of its container**/
+    height:30px;
+    margin-bottom:10px;
+  }
+  .contact form textarea{
+    width:50%;
+    height:100px;
+  }
+  
+  .contact form button{
+    width:50%;
+    padding:10px 0;
+    border:0;
+    background:#222;
+    color:#fff;
+  }
+  
+  .contact form label{
+    text-transform:uppercase;
+  }
+  
+  /**Media queries**/
 @media(max-width:800px){
     #showcase h1{
       font-size:30px;
